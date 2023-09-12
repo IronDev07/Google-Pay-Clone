@@ -62,3 +62,24 @@ body {
     background-color: #174ea6;
 
 }
+.bgimage1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.bgimage1 img{
+    height: 800px;
+    width: 100%;
+}
+
+.phone{
+    height: 600px;
+    width: 324px;
+    background-color: white;
+    position: absolute;
+    top: 250px;
+    justify-self: center;
+    border-radius: 25px;
+}
