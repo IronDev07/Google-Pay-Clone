@@ -252,3 +252,24 @@ body {
     font-weight: 10;
     color: rgb(91, 91, 91);
 }
+.collab{
+    height: 100px;
+}
+
+.collab1{
+    height: 150px;
+}
+.here{
+    font-size: 35px;
+    font-weight: 10;
+    text-align: center;
+
+}
+.companies{
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(177 177 177 / 35%);
+    padding: 50px;
+    height: fit-content;
+}
