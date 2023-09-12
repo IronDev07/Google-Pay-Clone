@@ -75,11 +75,36 @@ body {
 }
 
 .phone{
-    height: 600px;
+    height: 680px;
     width: 324px;
     background-color: white;
     position: absolute;
-    top: 250px;
+    top: 190px;
     justify-self: center;
     border-radius: 25px;
+    overflow: hidden;
+}
+#phoneimg{
+    height: 600px;
+    
+}
+#gift{
+    position: absolute;
+    left: 100px;
+    background-color: white;
+    font-size: 20px;
+    padding: 7px 15px;
+    border-radius: 50px;
+    color:rgb(21, 21, 21);
+}
+#dance{
+    position: absolute;
+    right: 100px;
+    background-color: rgb(190, 215, 246);
+    font-size: 20px;
+    padding: 7px 15px;
+    border-radius: 50px;
+    color:rgb(6, 6, 176);
+    top: 600px;
+    
 }
