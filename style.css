@@ -1,8 +1,8 @@
-* {
+*{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-}
+    font-family: Roboto,Helvetica,Arial,sans-serif;}
 
 body {
     background-color: red;
@@ -92,7 +92,7 @@ body {
     position: absolute;
     left: 100px;
     background-color: white;
-    font-size: 20px;
+    font-size: 17px;
     padding: 7px 15px;
     border-radius: 50px;
     color:rgb(21, 21, 21);
@@ -101,7 +101,7 @@ body {
     position: absolute;
     right: 100px;
     background-color: rgb(190, 215, 246);
-    font-size: 20px;
+    font-size: 17px;
     padding: 7px 15px;
     border-radius: 50px;
     color:rgb(6, 6, 176);
